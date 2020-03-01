@@ -1,0 +1,7 @@
+templates
+db.sqlite3
+**.pyc
+.idea
+!media/system/*
+static
+**/migrations/*
